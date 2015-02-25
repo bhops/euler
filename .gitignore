@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ruby
+
+# JavaScript (Node)
+node_modules
+
+# Other
+.DS_Store
+.Spotlight-V100
+.Trashes
+*.iml
+.idea/
